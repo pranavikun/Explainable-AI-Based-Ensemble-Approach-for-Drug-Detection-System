@@ -22,15 +22,23 @@ This project presents an Explainable AI (XAI)-based ensemble learning framework 
 
 ## Project Structure
 
+```text
+Explainable-AI-Based-Ensemble-Approach-for-Drug-Detection-System/
+│
 ├── data/
 ├── images/
+│
 ├── chembl_data_processing.py
 ├── padel_descriptors_calculation.py
 ├── RF_SVM_Classification.py
 ├── drug_prediction.py
 ├── explain_predictions.py
 ├── EDA_Normalization.py
-└── README.md
+├── fingerprints_xml.zip
+│
+├── README.md
+└── requirements.txt
+```
 
 ## Technologies Used
 - Python
